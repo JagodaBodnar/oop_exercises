@@ -1,3 +1,5 @@
+package exercise1;
+
 public class Cabriolet {
     private String name;
     private String brand;

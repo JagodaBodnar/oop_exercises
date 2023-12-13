@@ -1,3 +1,5 @@
+package exercise1;
+
 public class CarRide {
     public static void main(String[] args) {
         Cabriolet ride1 = new Cabriolet("A1", "Volvo");

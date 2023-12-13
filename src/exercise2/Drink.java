@@ -1,3 +1,5 @@
+package exercise2;
+
 public class Drink {
     private Ingredient ingredient1;
     private Ingredient ingredient2;
