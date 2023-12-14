@@ -2,7 +2,7 @@ Exercises for practicing OOP.
 
 ## Exercise1
 ### Instructions
->Create class exercise1.Cabriolet that is representing car with open roof. </br>
+>Create class Cabriolet that is representing car with open roof. </br>
 >Car should contain information about name, brand, but also if it is currently moving and if roof is open.</br>
 >Keep in mind that opening or closing roof should not be allowed while car is moving.</br>
 >If car is moving and someone is trying to open or close the roof there should be error information and roof should remain in current state.
@@ -11,7 +11,7 @@ Exercises for practicing OOP.
 
 ## Exercise2
 ### Instructions
->Create class exercise2.Bartender that has method createDrink that accepts as arguments names and quantity of 3 ingredients
+>Create classBartender that has method createDrink that accepts as arguments names and quantity of 3 ingredients
 >that are required to prepare drink. As result method should return object of type exercise2.Drink with information about drink ingredients.
 >Each ingredient inside exercise2.Drink class should be represented by exercise2.Ingredient class, which that contains name and quantity of each ingredient.
 > 
